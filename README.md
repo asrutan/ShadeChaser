@@ -18,3 +18,4 @@ CHANGES
 
 NOTES
 -Projectiles need to despawn after a limit of time or amount is reached.
+-I'm pretty sure this breaks enemy AI at the moment.
